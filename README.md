@@ -1,6 +1,6 @@
-👋 Olá! Eu sou Mirian Sanches
+Olá! Eu sou Mirian Sanches
 <img align="right" alt="Developer vector created by storyset - freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a1d8-0c4440c45f2e.png"/>
-🚀 Desenvolvedora Backend & Cientista de Dados
+Desenvolvedora Backend & Cientista de Dados
 Sou desenvolvedora Backend especializada em .NET/C# e Python, com foco em Ciência de Dados e Machine Learning. Apaixonada por transformar dados em insights valiosos e criar soluções robustas que impactem positivamente os negócios.
 
 💻 Principais Competências:
