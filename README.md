@@ -46,6 +46,7 @@ Databases & Cloud:
 <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> </div>
 
 🏆 Projetos em Destaque:
+
 📈 Sistema de Análise Preditiva de Vendas
 Tecnologias: Python, Scikit-learn, Flask, SQL Server
 
@@ -71,7 +72,9 @@ Destaque: Visualização em tempo real de KPIs e insights automáticos
 <div> <a href="https://linkedin.com/in/miriansanches/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="sanchesmirian489@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://github.com/miriansanches" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> </a> <a href="https://portfolio-miriansanches.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"> </a> </div>
 
 
+
 ⚡ Curiosidades sobre mim:
+
 
 
 🎲 Amo resolver problemas complexos com dados
@@ -82,9 +85,10 @@ Destaque: Visualização em tempo real de KPIs e insights automáticos
 
 ☕ Movida a café e desafios de código
 
-<div align="center">
-🌟 "Dados são o novo petróleo, mas insights são o combustível refinado que move as decisões"
-Snake animation
+💬 Vamos compartilhar ideias e soluções! Entre em contato comigo!
 
-</div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=seuusername&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/> </div>
+
+
+🌟 "Dados são o novo petróleo, mas insights são o combustível refinado que move as decisões"
+
+
