@@ -26,8 +26,12 @@ Desenvolvo Backend em .NET/C# e Python, com foco em Ciência de Dados e Machine 
 
 💬 Converse comigo sobre: C#, Python, Machine Learning, Data Analytics
 
+
+
 📊 GitHub Stats:
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriansanches&layout=compact&langs_count=7&theme=tokyonight"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miriansanches&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriansanches&layout=compact&langs_count=7&theme=tokyonight"/> </div>
+
+
 
 🛠️ Tecnologias & Ferramentas:
 <div style="display: inline_block">
@@ -64,8 +68,12 @@ Descrição: Dashboard interativo para análise de métricas de e-commerce
 Destaque: Visualização em tempo real de KPIs e insights automáticos
 
 📫 Como me encontrar:
-<div> <a href="https://linkedin.com/in/miriansanches/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="mailto:mirian.sanches@email.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://github.com/seuusername" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> </a> <a href="https://portfolio-mirian-sanches.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"> </a> </div>
+<div> <a href="https://linkedin.com/in/miriansanches/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="sanchesmirian489@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://github.com/miriansanches" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> </a> <a href="https://portfolio-miriansanches.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"> </a> </div>
+
+
 ⚡ Curiosidades sobre mim:
+
+
 🎲 Amo resolver problemas complexos com dados
 
 📚 Sempre estudando novas tecnologias e tendências
