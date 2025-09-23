@@ -1,18 +1,20 @@
-Olá! Eu sou Mirian! Sou Desenvolvedora Backend & Cientista de Dados em formação.
+Olá! Eu sou Mirian! 
+Sou Desenvolvedora Backend & Cientista de Dados em formação.
 Desenvolvo Backend em .NET/C# e Python, com foco em Ciência de Dados e Machine Learning. Apaixonada por transformar dados em insights valiosos e criar soluções robustas que impactem positivamente os negócios!
 
 💻 Principais Competências:
-Backend Development: C#, .NET Core, ASP.NET, RESTful APIs
 
-Data Science: Python, Pandas, NumPy, Scikit-learn, TensorFlow
+- Backend Development: C#, .NET Core, ASP.NET, RESTful APIs;
 
-Databases: SQL Server, PostgreSQL, MySQL, MongoDB
+- Data Science: Python, Pandas, NumPy, Scikit-learn, TensorFlow;
 
-Cloud & DevOps: Azure, AWS, Docker, Git
+- Databases: SQL Server, MySQL, MongoDB;
 
-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Streamlit
+- Cloud & DevOps: Azure, AWS, Docker, Git;
 
-Machine Learning: Regressão, Classificação, Clustering, Deep Learning
+- Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Streamlit;
+
+- Machine Learning: Regressão, Classificação, Clustering, Deep Learning;
 
 🎯 Atualmente eu:
 
@@ -25,15 +27,20 @@ Machine Learning: Regressão, Classificação, Clustering, Deep Learning
 💬 Converse comigo sobre: C#, Python, Machine Learning, Data Analytics
 
 📊 GitHub Stats:
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=7&theme=tokyonight"/> </div>
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriansanches&layout=compact&langs_count=7&theme=tokyonight"/> </div>
+
 🛠️ Tecnologias & Ferramentas:
 <div style="display: inline_block">
+  
 Backend & Development:
 <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"> <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 Data Science & ML:
 <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"> <img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"> <img align="center" alt="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"> <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+
 Databases & Cloud:
 <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> </div>
+
 🏆 Projetos em Destaque:
 📈 Sistema de Análise Preditiva de Vendas
 Tecnologias: Python, Scikit-learn, Flask, SQL Server
