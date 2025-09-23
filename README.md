@@ -1,7 +1,5 @@
-Olá! Eu sou Mirian Sanches
-<img align="right" alt="Developer vector created by storyset - freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a1d8-0c4440c45f2e.png"/>
-Desenvolvedora Backend & Cientista de Dados
-Sou desenvolvedora Backend especializada em .NET/C# e Python, com foco em Ciência de Dados e Machine Learning. Apaixonada por transformar dados em insights valiosos e criar soluções robustas que impactem positivamente os negócios.
+Olá! Eu sou Mirian! Sou Desenvolvedora Backend & Cientista de Dados em formação.
+Desenvolvo Backend em .NET/C# e Python, com foco em Ciência de Dados e Machine Learning. Apaixonada por transformar dados em insights valiosos e criar soluções robustas que impactem positivamente os negócios!
 
 💻 Principais Competências:
 Backend Development: C#, .NET Core, ASP.NET, RESTful APIs
@@ -12,16 +10,17 @@ Databases: SQL Server, PostgreSQL, MySQL, MongoDB
 
 Cloud & DevOps: Azure, AWS, Docker, Git
 
-Data Visualization: Power BI, Tableau, Matplotlib, Seaborn
+Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Streamlit
 
 Machine Learning: Regressão, Classificação, Clustering, Deep Learning
 
-🎯 Atualmente:
-🔭 Trabalhando em projetos de análise preditiva e APIs escaláveis
+🎯 Atualmente eu:
 
-🌱 Aprimorando conhecimentos em MLOps e Microserviços
+🔭 Trabalho na Quipe.AI como desenvolvedora de software;
 
-👯 Procurando colaborar em projetos open-source relacionados a Data Science
+🌱 Aprimorando conhecimentos em .NET Framework;
+
+👯 Procurando colaborar em projetos open-source relacionados a Data Science;
 
 💬 Converse comigo sobre: C#, Python, Machine Learning, Data Analytics
 
@@ -58,7 +57,7 @@ Descrição: Dashboard interativo para análise de métricas de e-commerce
 Destaque: Visualização em tempo real de KPIs e insights automáticos
 
 📫 Como me encontrar:
-<div> <a href="https://linkedin.com/in/mirian-sanches" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="mailto:mirian.sanches@email.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://github.com/seuusername" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> </a> <a href="https://portfolio-mirian-sanches.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"> </a> </div>
+<div> <a href="https://linkedin.com/in/miriansanches/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="mailto:mirian.sanches@email.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://github.com/seuusername" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> </a> <a href="https://portfolio-mirian-sanches.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"> </a> </div>
 ⚡ Curiosidades sobre mim:
 🎲 Amo resolver problemas complexos com dados
 
