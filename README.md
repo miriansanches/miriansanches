@@ -1,26 +1,26 @@
 Olá! Eu sou Mirian! 
-Sou Desenvolvedora Backend & Cientista de Dados em formação.
+Sou Cientista de Dados em formação.
 Desenvolvo Backend em .NET/C# e Python, com foco em Ciência de Dados e Machine Learning. Apaixonada por transformar dados em insights valiosos e criar soluções robustas que impactem positivamente os negócios!
 
 💻 Principais Competências:
 
-- Backend Development: C#, .NET Core, ASP.NET, RESTful APIs;
+- Backend Development: C#, Javascript, Typecript, ASP.NET, RESTful APIs;
 
 - Data Science: Python, Pandas, NumPy, Scikit-learn, TensorFlow;
 
 - Databases: SQL Server, MySQL, MongoDB;
 
-- Cloud & DevOps: Azure, AWS, Docker, Git;
+- Cloud & DevOps: Azure, Git;
 
-- Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Streamlit;
+- Data Visualization: Power BI, Matplotlib, Seaborn, Streamlit;
 
 - Machine Learning: Regressão, Classificação, Clustering, Deep Learning;
 
 🎯 Atualmente eu:
 
-🔭 Trabalho na Quipe.AI como desenvolvedora de software;
+🔭 Possuo experiências em desenvolvimento de software e mercado Financeiro com Data Science Aplicada;
 
-🌱 Aprimorando conhecimentos em .NET Framework;
+🌱 Aprimorando conhecimentos em Python para utilização de ferramentas preditivas;
 
 👯 Procurando colaborar em projetos open-source relacionados a Data Science;
 
@@ -45,28 +45,7 @@ Data Science & ML:
 Databases & Cloud:
 <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> </div>
 
-🏆 Projetos em Destaque:
 
-📈 Sistema de Análise Preditiva de Vendas
-Tecnologias: Python, Scikit-learn, Flask, SQL Server
-
-Descrição: API que prevê vendas mensais usando algoritmos de Machine Learning
-
-Destaque: Accuracy de 92% e redução de 30% no erro de previsão
-
-🔧 API de Gerenciamento de Produtos
-Tecnologias: C#, .NET 8, Entity Framework, SQL Server
-
-Descrição: RESTful API completa com autenticação JWT e documentação Swagger
-
-Destaque: Arquitetura limpa com padrões SOLID e testes unitários
-
-📊 Dashboard de Análise de E-commerce
-Tecnologias: Python, Streamlit, Plotly, Pandas
-
-Descrição: Dashboard interativo para análise de métricas de e-commerce
-
-Destaque: Visualização em tempo real de KPIs e insights automáticos
 
 📫 Como me encontrar:
 <div> <a href="https://linkedin.com/in/miriansanches/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="sanchesmirian489@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a> <a href="https://github.com/miriansanches" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> </a> <a href="https://portfolio-miriansanches.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"> </a> </div>
