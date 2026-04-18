@@ -1,11 +1,12 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Olá%2C+eu+sou+a+Mirian+%F0%9F%91%8B;Data+Scientist+%26+Backend+Dev;Transformando+dados+em+impacto+%F0%9F%9A%80;Python+%7C+C%23+%7C+Machine+Learning" alt="Typing SVG" />
-<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miriansanches/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanchesmirian489@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miriansanches)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-miriansanches.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=miriansanches&color=00D4AA&style=for-the-badge&label=VISITAS)](https://github.com/miriansanches)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Mirian+%F0%9F%91%8B;Data+Scientist+%26+Backend+Dev;Transformando+dados+em+impacto+%F0%9F%9A%80;Python+%7C+C%23+%7C+Machine+Learning" alt="Typing SVG" />
+<br/><br/>
+ 
+<a href="https://linkedin.com/in/miriansanches/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sanchesmirian489@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/miriansanches"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://portfolio-miriansanches.com"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://github.com/miriansanches"><img src="https://komarev.com/ghpvc/?username=miriansanches&color=00D4AA&style=for-the-badge&label=VISITAS"/></a>
  
 </div>
 ---
@@ -55,9 +56,9 @@ Quando não estou debugando modelos ou construindo APIs, estou estudando algo no
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miriansanches&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriansanches&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA"/>
-</div>
-<div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=miriansanches&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA)](https://git.io/streak-stats)
+<br/><br/>
+ 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miriansanches&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA"/></a>
  
 </div>
 ---
