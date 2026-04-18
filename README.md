@@ -9,13 +9,13 @@
 <a href="https://github.com/miriansanches"><img src="https://komarev.com/ghpvc/?username=miriansanches&color=00D4AA&style=for-the-badge&label=VISITAS"/></a>
  
 </div>
----
+
  
 ## 👩‍💻 Sobre mim
  
-Sou desenvolvedora backend e cientista de dados apaixonada por transformar dados bagunçados em decisões inteligentes. Trabalho com o mercado financeiro aplicando Machine Learning para gerar insights reais — e acredito que código bem feito e dados bem tratados têm o poder de mudar negócios.
+Sou desenvolvedora backend e cientista de dados em formação apaixonada por transformar dados bagunçados em decisões inteligentes. Trabalho com o mercado financeiro aplicando a eficiéncia de inteligência dos dados para gerar insights reais e benéficos para negócio — e acredito que código bem feito e dados bem tratados têm o poder de mudar negócios.
  
-Quando não estou debugando modelos ou construindo APIs, estou estudando algo novo. Sempre. ☕
+Quando não estou debugando, modelando dados ou construindo APIs, estou estudando algo novo. Ou tomando um café. ☕
  
 ---
  
@@ -66,12 +66,11 @@ Quando não estou debugando modelos ou construindo APIs, estou estudando algo no
 ## 🧠 O que eu construo
  
 <div align="center">
-| 📊 Dados & ML | 💻 Backend | 🎯 Foco atual |
-|:---:|:---:|:---:|
+| 📊 Dados & ML | 💻 Backend | 🎯 Foco atual 
 | Análise exploratória | APIs RESTful | ML aplicado a finanças |
-| Modelos preditivos | C# / .NET | Python avançado |
-| Classificação & Clustering | Integração de sistemas | Projetos open-source |
-| Deep Learning | Arquitetura de software | MLOps |
+| C# / .NET | Python avançado |
+| Integração de sistemas | Projetos open-source |
+| Engenharia de Dados | Arquitetura de software | Data Analitycs|
  
 </div>
 ---
