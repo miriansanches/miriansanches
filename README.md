@@ -17,7 +17,7 @@ Sou desenvolvedora backend e cientista de dados em formação apaixonada por tra
  
 Quando não estou debugando, modelando dados ou construindo APIs, estou estudando algo novo. Ou tomando um café. ☕
  
----
+
  
 ## 🛠️ Tech Stack
  
@@ -49,7 +49,7 @@ Quando não estou debugando, modelando dados ou construindo APIs, estou estudand
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  
----
+
  
 ## 📈 GitHub Stats
  
@@ -61,19 +61,18 @@ Quando não estou debugando, modelando dados ou construindo APIs, estou estudand
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=miriansanches&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA"/></a>
  
 </div>
----
+
  
 ## 🧠 O que eu construo
  
 <div align="center">
-| 📊 Dados & ML | 💻 Backend | 🎯 Foco atual 
+| 📊 Dados & ML | 💻 Backend |
 | Análise exploratória | APIs RESTful | ML aplicado a finanças |
 | C# / .NET | Python avançado |
 | Integração de sistemas | Projetos open-source |
 | Engenharia de Dados | Arquitetura de software | Data Analitycs|
  
-</div>
----
+
  
 ## 🚀 O que estou fazendo agora
  
@@ -82,7 +81,7 @@ Quando não estou debugando, modelando dados ou construindo APIs, estou estudand
 - 👯 **Buscando colaborar** em projetos open-source de Data Science
 - 💬 **Me pergunte sobre** C#, Python, Machine Learning, Data Analytics
 - 🎯 **Meta** → Contribuir para projetos que impactem a sociedade
----
+
  
 <div align="center">
 *"Transformando dados em insights, um modelo de cada vez."* ✨
