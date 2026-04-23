@@ -76,11 +76,11 @@ Quando não estou debugando, modelando dados ou construindo APIs, estou estudand
  
 ## O que estou fazendo agora
  
-- 🔭 **Trabalhando com** Data Science aplicada ao mercado financeiro
-- 🌱 **Aprendendo** técnicas avançadas de ML preditivo com Python
-- 👯 **Buscando colaborar** em projetos open-source de Data Science
-- 💬 **Me pergunte sobre** C#, Python, Machine Learning, Data Analytics
-- 🎯 **Meta** → Contribuir para projetos que impactem a sociedade
+-  **Trabalhando com** Data Science aplicada ao mercado financeiro
+-  **Aprendendo** técnicas avançadas de ML preditivo com Python
+-  **Buscando colaborar** em projetos open-source de Data Science
+-  **Me pergunte sobre** C#, Python, Machine Learning, Data Analytics
+- **Meta** → Contribuir para projetos que impactem a sociedade
 
  
 <div align="center">
